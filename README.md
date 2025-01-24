@@ -26,6 +26,16 @@ Is there a correlation between amnesty granted by the United States and the numb
 
 Do immigration trends and missing migrant numbers change during global crisis? For reference, we used Global Economic Crisis of 2007-09 and the COVID-19 pandemic.
 
-Importing Libraries:
+User Instructions:
+
+Step 1: Install Jupyter Notebook and GitHub Desktop
+
+Skip if installed
+
+Step 2: Clone Repository
+
+Open the repository gwk3cc/Localized-Climate-Impact-Dashboard Click the green "CODE" button and hit "Open with GitHub Desktop"
+
+Step 3: Import Libraries
 
 We have use pandas for data cleaning and analysis. For visualization, we are using seaborn, matplotlib and plotly. For statistical testing, we will be using stats from scipy library.
